@@ -13,7 +13,7 @@ This plugin transforms the Gutenberg gallery block into a lightbox with previous
 
 = Installation =
 
-* Install the plugin through the Install Plugins interface or by uploading the `gg-lightbox` folder to your `/wp-content/plugins/` directory.
+* Install the plugin through the Install Plugins interface or by uploading the `ggbl-lightbox` folder to your `/wp-content/plugins/` directory.
 * Activate the plugin.
 * Make sure you select "Media File" in the Link To dropdown menu for your galleries
 
