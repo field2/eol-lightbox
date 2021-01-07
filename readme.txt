@@ -7,9 +7,6 @@ Stable tag: 1
 License: GPL-2.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
-Add a protective coating onto your images to discourage downloading. 
-
 == Description ==
 
 This plugin transforms the Gutenberg gallery block into a lightbox with previous/next navigation. It was built to offer those who wish to present a series of images in lightbox/slider format with a simple, lightweight solution.
