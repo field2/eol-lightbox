@@ -1,9 +1,11 @@
 === Gutenberg Gallery Blocks Lightbox  ===
-Contributors: EmpireOfLight
-Tags: Gutenberg Gallery, gallery, lightbox, slider
+Contributors: Ben Dunkle (@empireoflight)
+Tags: Gutenberg Gallery Block, gallery, lightbox, slider, photography, images
 Requires at least: 5.0
 Tested up to: 5.6
 Stable tag: 1
+License: GPL-2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 Add a protective coating onto your images to discourage downloading. 
@@ -14,10 +16,9 @@ This plugin transforms the Gutenberg gallery block into a lightbox with previous
 
 = Installation =
 
-
-* Install the plugin through the Install Plugins interface or by uploading the `gutenberg_gallery_lightbox` folder to your `/wp-content/plugins/` directory.
-* Activate the Gallery Blocks Lightbox plugin.
-* Make sure you select "Media File" in the Link To dropdown menu for your gallery
+* Install the plugin through the Install Plugins interface or by uploading the `gg-lightbox` folder to your `/wp-content/plugins/` directory.
+* Activate the plugin.
+* Make sure you select "Media File" in the Link To dropdown menu for your galleries
 
 
 = Why did you make this plugin? =
